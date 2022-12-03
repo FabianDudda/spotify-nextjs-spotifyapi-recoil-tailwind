@@ -1,0 +1,26 @@
+
+
+users: {
+    0: {
+        userID: 1111111
+        spotifyID: 987654321
+        username: "duddai"
+    }
+    1: {
+        userID: 2222222
+        spotifyID: 987654321
+        username: "duddai"
+    }
+    ...
+}
+
+comments: {
+    0: {
+        value: "this is a comment"
+        user_id: 1111111
+    }
+    1: {
+        value: "this is another comment"
+        user_id: 2222222
+    }
+}
